@@ -75,8 +75,8 @@
     "vuepress": "1.1.x"
   },
   "resolutions": {
-    "@vue/cli-plugin-unit-jest/jest": "24.9.x",
-    "@vue/cli-plugin-unit-jest/babel-jest": "24.9.x"
+    "@vue/cli-plugin-unit-jest/jest": "26.0.x",
+    "@vue/cli-plugin-unit-jest/babel-jest": "26.0.x"
   },
   "engines": {
     "node": ">=10.13.3",
