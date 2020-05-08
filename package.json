@@ -56,7 +56,7 @@
     "babel-eslint": "10.0.x",
     "cross-env": "6.0.x",
     "eslint": "5.16.x",
-    "eslint-plugin-vue": "vuejs/eslint-plugin-vue#edf43ffe1c56db99c81d8eaa62de36b2fa47604e",
+    "eslint-plugin-vue": "vuejs/eslint-plugin-vue#9d559b21e596e7c6a59fad07ed120519310cbb8e",
     "express": "4.17.x",
     "hygen": "4.0.x",
     "imagemin-lint-staged": "0.4.x",
